@@ -57,7 +57,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
         <img src='https://cdn-icons-png.flaticon.com/512/1055/1055645.png' alt="app">
         <div class="text-container">
           <h2>Design System: Table Component</h2>
-          <p>Lor ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
         </div>
       </article>
       </a>
